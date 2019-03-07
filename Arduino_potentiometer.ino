@@ -1,3 +1,5 @@
+// LED sequencer and brightness with potentiometer
+
 // constants:
 const int ledPinR = 11;
 const int ledPinG = 10;
